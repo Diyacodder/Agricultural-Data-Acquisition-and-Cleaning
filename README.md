@@ -79,5 +79,7 @@ This project demonstrates a structured workflow for agricultural data
 acquisition and cleaning using Python and SQL. The resulting dataset can
 support further analysis of crop production, seasonal patterns and
 state-wise agricultural performance.
+
+
 Author: Sayantani Das
 Department: B.Tech CSE
